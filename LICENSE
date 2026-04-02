@@ -1,0 +1,38 @@
+# Contributing
+
+Thanks for wanting to make this better. CS people helping CS people — that's the whole point.
+
+## How to Contribute
+
+### Suggesting Improvements
+- Open an issue describing what's missing or what could work better
+- Include context: what's your CS model, team size, and what problem are you solving?
+
+### Submitting Changes
+1. Fork the repo
+2. Create a branch (`git checkout -b feature/better-qbr-template`)
+3. Make your changes
+4. Submit a PR with a clear description of what and why
+
+### What We're Looking For
+- New templates for common CSM workflows
+- Industry-specific customizations
+- Better frameworks backed by real experience
+- Fixes to anything confusing or inaccurate
+- Translations (seriously — CS is global)
+
+### Writing Style
+- Write like you're explaining something to a colleague over coffee
+- Be specific and practical over theoretical
+- Include examples from real scenarios (anonymize accounts obviously)
+- If it works, explain why. If it doesn't, say so.
+
+### What We'll Probably Not Merge
+- Generic advice that doesn't add specificity ("communicate well with customers")
+- Vendor-specific content that reads like an ad
+- Theoretical frameworks without practical application instructions
+- Anything that requires paid tools to function (core toolkit should work with free Notion)
+
+## Code of Conduct
+
+Be decent. Help each other. We're all just trying to keep our customers happy and get promoted.
